@@ -1,0 +1,5 @@
+package com.questionario.questionario.repository;
+
+public interface QuestionarioRepository {
+
+}

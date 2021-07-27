@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+
+<head>
+	<title>INDICADORES COMPOSTAMENTAIS</title>
+<body>
+
+	<h1>HABILIDADES PRATICAS- SABER FAZER</h1>
+	<form method="post">
+		Atendimento ao Telefone: <input type="text" value= "" name="telefone"/>
+	Atendimento ao Whatsapp: <input type="text" value= "" name="whatsapp"/>
+		Atendimento ao balcão: <input type="text" value= "" name="balcao"/>		
+		Atendimento ao cliente: <input type="text" value= "" name="cliente"/>
+		Caixa: <input type="text" value= "" name="caixa"/>
+		Fechamento de Venda: <input type="text" value= "" name="fecharVenda"/>
+		
+		
+		<button type="submit">Proximo</button>
+	
+	
+	</form>
+
+
+
+</body>
+
+</head>
+
+
+</html>

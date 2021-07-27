@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+
+<head>
+	<title>INDICADORES COMPOSTAMENTAIS</title>
+	<!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="materialize/css/materialize.min.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<body>
+
+	<h1>CONHECIMENTOS- ESPECIALIDADES</h1>
+	<form method="post">
+		Abordagem ao cliente: <input type="text" value= "" name="abordagem"/>
+	Tecnica de Venda: <input type="text" value= "" name="venda"/>
+		Tecnologia Maquinas em Geral: <input type="text" value= "" name="tecnologia"/>
+		Sistema Interno: <input type="text" value= "" name="sistema"/>
+		
+		
+		
+		<h3><a href= "/habilidades" class="waves-effect waves-light btn"><i class="material-icons left">forward</i>Proximo</a></h3>
+	
+	
+	</form>
+
+
+	<script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+</body>
+
+</head>
+
+
+</html>

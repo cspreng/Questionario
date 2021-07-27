@@ -1,0 +1,37 @@
+package com.questionario.questionario.models;
+
+public class Feedback {
+	
+	private String abordagem;
+	private String venda;
+	private String tecnologia;
+	private String sistema;
+	private String telefone;
+	private String whatsapp;
+	private String balcao;
+	private String cliente;
+	private String caixa;
+	private String fecharVenda;
+	private String proatividade;
+	private String resiliencia;
+	private String urgencia;
+	private String resultados;
+	private String problema;
+	private String motivacao;
+	private String frequencia;
+	private String equipe;
+	private String interpessoal;
+	private String missao;
+	private String agilidade;
+	private String inteligencia;
+	private String lideranca;
+	private String autoconhecimento;
+	private String autogestao;
+	private String empatia;
+	private String social;
+
+	
+	
+
+
+}

@@ -1,0 +1,200 @@
+package com.questionario.questionario.models;
+
+public class Feedback {
+	
+	private String abordagem;
+	private String venda;
+	private String tecnologia;
+	private String sistema;
+	private String telefone;
+	private String whatsapp;
+	private String balcao;
+	private String cliente;
+	private String caixa;
+	private String fecharVenda;
+	private String proatividade;
+	private String resiliencia;
+	private String urgencia;
+	private String resultados;
+	private String problema;
+	private String motivacao;
+	private String frequencia;
+	private String equipe;
+	private String interpessoal;
+	private String missao;
+	private String agilidade;
+	private String inteligencia;
+	private String lideranca;
+	private String autoconhecimento;
+	private String autogestao;
+	private String empatia;
+	private String social;
+	
+	public String getAbordagem() {
+		return abordagem;
+	}
+	public void setAbordagem(String abordagem) {
+		this.abordagem = abordagem;
+	}
+	public String getVenda() {
+		return venda;
+	}
+	public void setVenda(String venda) {
+		this.venda = venda;
+	}
+	public String getTecnologia() {
+		return tecnologia;
+	}
+	public void setTecnologia(String tecnologia) {
+		this.tecnologia = tecnologia;
+	}
+	public String getSistema() {
+		return sistema;
+	}
+	public void setSistema(String sistema) {
+		this.sistema = sistema;
+	}
+	public String getTelefone() {
+		return telefone;
+	}
+	public void setTelefone(String telefone) {
+		this.telefone = telefone;
+	}
+	public String getWhatsapp() {
+		return whatsapp;
+	}
+	public void setWhatsapp(String whatsapp) {
+		this.whatsapp = whatsapp;
+	}
+	public String getBalcao() {
+		return balcao;
+	}
+	public void setBalcao(String balcao) {
+		this.balcao = balcao;
+	}
+	public String getCliente() {
+		return cliente;
+	}
+	public void setCliente(String cliente) {
+		this.cliente = cliente;
+	}
+	public String getCaixa() {
+		return caixa;
+	}
+	public void setCaixa(String caixa) {
+		this.caixa = caixa;
+	}
+	public String getFecharVenda() {
+		return fecharVenda;
+	}
+	public void setFecharVenda(String fecharVenda) {
+		this.fecharVenda = fecharVenda;
+	}
+	public String getProatividade() {
+		return proatividade;
+	}
+	public void setProatividade(String proatividade) {
+		this.proatividade = proatividade;
+	}
+	public String getResiliencia() {
+		return resiliencia;
+	}
+	public void setResiliencia(String resiliencia) {
+		this.resiliencia = resiliencia;
+	}
+	public String getUrgencia() {
+		return urgencia;
+	}
+	public void setUrgencia(String urgencia) {
+		this.urgencia = urgencia;
+	}
+	public String getResultados() {
+		return resultados;
+	}
+	public void setResultados(String resultados) {
+		this.resultados = resultados;
+	}
+	public String getProblema() {
+		return problema;
+	}
+	public void setProblema(String problema) {
+		this.problema = problema;
+	}
+	public String getMotivacao() {
+		return motivacao;
+	}
+	public void setMotivacao(String motivacao) {
+		this.motivacao = motivacao;
+	}
+	public String getFrequencia() {
+		return frequencia;
+	}
+	public void setFrequencia(String frequencia) {
+		this.frequencia = frequencia;
+	}
+	public String getEquipe() {
+		return equipe;
+	}
+	public void setEquipe(String equipe) {
+		this.equipe = equipe;
+	}
+	public String getInterpessoal() {
+		return interpessoal;
+	}
+	public void setInterpessoal(String interpessoal) {
+		this.interpessoal = interpessoal;
+	}
+	public String getMissao() {
+		return missao;
+	}
+	public void setMissao(String missao) {
+		this.missao = missao;
+	}
+	public String getAgilidade() {
+		return agilidade;
+	}
+	public void setAgilidade(String agilidade) {
+		this.agilidade = agilidade;
+	}
+	public String getInteligencia() {
+		return inteligencia;
+	}
+	public void setInteligencia(String inteligencia) {
+		this.inteligencia = inteligencia;
+	}
+	public String getLideranca() {
+		return lideranca;
+	}
+	public void setLideranca(String lideranca) {
+		this.lideranca = lideranca;
+	}
+	public String getAutoconhecimento() {
+		return autoconhecimento;
+	}
+	public void setAutoconhecimento(String autoconhecimento) {
+		this.autoconhecimento = autoconhecimento;
+	}
+	public String getAutogestao() {
+		return autogestao;
+	}
+	public void setAutogestao(String autogestao) {
+		this.autogestao = autogestao;
+	}
+	public String getEmpatia() {
+		return empatia;
+	}
+	public void setEmpatia(String empatia) {
+		this.empatia = empatia;
+	}
+	public String getSocial() {
+		return social;
+	}
+	public void setSocial(String social) {
+		this.social = social;
+	}
+
+	
+	
+
+
+}

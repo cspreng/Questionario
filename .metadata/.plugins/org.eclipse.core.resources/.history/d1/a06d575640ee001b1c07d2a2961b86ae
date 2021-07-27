@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+
+<head>
+	<title>INDICADORES COMPOSTAMENTAIS</title>
+<body>
+
+	<h1>CONHECIMENTOS- ESPECIALIDADES</h1>
+	<form method="post">
+		Abordagem ao cliente: <input type="text" value= "" name="abordagem"/>
+	Tecnica de Venda: <input type="text" value= "" name="venda"/>
+		Tecnologia Maquinas em Geral: <input type="text" value= "" name="tecnologia"/>
+		Sistema Interno: <input type="text" value= "" name="sistema"/>
+		
+		
+		<button type="submit">Salvar</button>
+	
+	
+	</form>
+
+
+
+</body>
+
+</head>
+
+
+</html>

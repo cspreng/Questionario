@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+
+<head>
+	<title>INDICADORES COMPOSTAMENTAIS</title>
+<body>
+
+	<h1>HABILIDADES PRATICAS- SABER FAZER</h1>
+	<form method="post">
+		Proatividade: <input type="text" value= "" name="telefone"/>
+	Resiliencia: <input type="text" value= "" name="whatsapp"/>
+		Senso de Urgencia e Impostancia: <input type="text" value= "" name="balcao"/>		
+		Resolução de Problemas: <input type="text" value= "" name="cliente"/>
+		Busca por Resultados: <input type="text" value= "" name="caixa"/>
+		Motivação Interna: <input type="text" value= "" name="fecharVenda"/>
+		Frequencia no Trabalho: <input type="text" value= "" name="telefone"/>
+	Trabalho em Equipe: <input type="text" value= "" name="whatsapp"/>
+		Relacionamento Interpessoal: <input type="text" value= "" name="balcao"/>		
+		Entende a Missao da Empresa: <input type="text" value= "" name="cliente"/>
+		Agilidade: <input type="text" value= "" name="caixa"/>
+		Criatividade: <input type="text" value= "" name="fecharVenda"/>
+		Inteligencia Emocional: <input type="text" value= "" name="telefone"/>
+	Liderança: <input type="text" value= "" name="whatsapp"/>
+		Autoconhecimento: <input type="text" value= "" name="balcao"/>		
+		Autogestão: <input type="text" value= "" name="cliente"/>
+		Empatia: <input type="text" value= "" name="caixa"/>
+		Habilidade Social: <input type="text" value= "" name="fecharVenda"/>
+		
+		
+		<button type="submit">Salvar</button>
+	
+	
+	</form>
+
+
+
+</body>
+
+</head>
+
+
+</html>

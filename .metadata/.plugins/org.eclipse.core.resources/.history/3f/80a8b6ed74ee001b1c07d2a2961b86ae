@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ </head>
+
+<table class="container">
+	
+		
+		
+	<a href="/cadastrarColaborador"class="waves-effect waves-light btn">Cadastrar	Colaborador></a>
+	
+	
+
+</table>
+<table class="container">
+	<div class="nav-wrapper">
+		
+		<ul id="nav-mobile" class="right hide-on-med-and-down">
+	<td><a href="/conhecimentos"
+		class="waves-effect waves-light btn"><i
+			class="material-icons left">add_circle_outline</i>Feedback></a></td>
+	</ul>
+	</div>
+
+</table>
+
+
+
+
+
+
+</table>
+	
+<body>
+
+<a href="/cadastrarColaborador"class="waves-effect waves-light btn">Cadastrar	Colaborador></a>
+      <!--Import jQuery before materialize.js-->
+      <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+    </body>
+
+
+</html>

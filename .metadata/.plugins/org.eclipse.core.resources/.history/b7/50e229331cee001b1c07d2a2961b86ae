@@ -1,0 +1,5 @@
+package com.questionario.questionario.models;
+
+public class Cadastro {
+
+}

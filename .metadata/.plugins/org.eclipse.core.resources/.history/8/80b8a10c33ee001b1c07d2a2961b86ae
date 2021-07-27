@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+
+<head>
+	<title>Feedback</title>
+<body>
+
+	<h1>Cadastro Colaborador</h1>
+	<form method="post">
+		Participante: <input type="text" value= "" name="participante"/>
+		Gestor: <input type="text" value= "" name="gestor"/>
+		Area: <input type="text" value= "" name="area"/>
+		Motivo: <input type="text" value= "" name="motivo"/>
+		Data: <input type="date" value= "" name="data"/>
+		
+		<button type="submit">Salvar</button>
+	
+	
+	</form>
+
+
+
+</body>
+
+</head>
+
+
+</html>
